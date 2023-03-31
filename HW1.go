@@ -1,4 +1,4 @@
-// main sai "hello" goroutine say "world"
+// main say "hello" goroutine say "world"
 package main
 
 import (

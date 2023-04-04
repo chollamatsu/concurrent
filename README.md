@@ -1,2 +1,2 @@
 # concurrent
-assignments in concurrent class.
+Assignments from concurrent course.
